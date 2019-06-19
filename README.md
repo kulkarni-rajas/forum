@@ -23,7 +23,7 @@
     * For Windows
         > https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows
 
- * Make Sure there exists a Database by the name **polls_development**
+ * Make Sure there exists a Database by the name **forum_development**
 
 * Clone the Repository
     * > git clone https://github.com/kulkarni-rajas/forum
