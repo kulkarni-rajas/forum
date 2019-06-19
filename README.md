@@ -27,7 +27,7 @@
 
 * Clone the Repository
     * > git clone https://github.com/kulkarni-rajas/forum
-    * > cd Polls
+    * > cd forum
 
 * Make Migration
     * > rake db:migrate
