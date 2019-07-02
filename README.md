@@ -34,7 +34,8 @@
 
 * Build on Server
     > rails s
-
+## Aditional gems
+    * devise
 
 ### Get all the information about the above said gems on
 > https://rubygems.org/
