@@ -3,8 +3,8 @@
 ## Steps to Build this project on your machine
 
  * Make a Directory
-    > mkdir project
-    > cd project
+    * mkdir project
+    * cd project
 
  * Install Ruby (Ruby Version 2.5.1)
     * Linux
@@ -26,16 +26,16 @@
  * Make Sure there exists a Database by the name **forum_development**
 
 * Clone the Repository
-    * > git clone https://github.com/kulkarni-rajas/forum
-    * > cd forum
+    *  git clone https://github.com/kulkarni-rajas/forum
+    *  cd forum
 
 * Make Migration
-    * > rake db:migrate
+    *  rake db:migrate
 
 * Build on Server
     > rails s
 ## Aditional gems
-    * devise
+    * > devise
 
 ### Get all the information about the above said gems on
 > https://rubygems.org/
