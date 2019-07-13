@@ -2,7 +2,7 @@
 
 ## Steps to Build this project on your machine
 
- * Make a Directory
+ #### Make a Directory
     * mkdir project
     * cd project
 
@@ -23,19 +23,19 @@
     * For Windows
         > https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows
 
- * Make Sure there exists a Database by the name **forum_development**
+ #### Make Sure there exists a Database by the name **forum_development**
 
-* Clone the Repository
+#### Clone the Repository
     *  git clone https://github.com/kulkarni-rajas/forum
     *  cd forum
 
-* Make Migration
+##### Make Migration
     *  rake db:migrate
 
-* Build on Server
+##### Build on Server
     > rails s
 ## Aditional gems
-    * > devise
+    * devise
 
 ### Get all the information about the above said gems on
 > https://rubygems.org/
