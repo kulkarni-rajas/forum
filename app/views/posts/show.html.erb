@@ -9,6 +9,7 @@
   <strong>Answer:</strong>
   <%= @post.answer %>
 </p>
-
+<% if @post.user == current_user %>
 <%= link_to 'Edit', edit_post_path(@post) %> |
+<% end %>
 <%= link_to 'Back', posts_path %>
