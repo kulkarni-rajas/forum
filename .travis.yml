@@ -10,7 +10,7 @@ before_script:
 dist: trusty
 language: ruby
 rvm:
-  - 2.4.1
+  - 2.5.1
 script:
   - bundle install
   - bundle exec rails db:migrate 
